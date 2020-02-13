@@ -1,0 +1,32 @@
+# Global owners
+#
+# Currently these people are fall-back owners, to ensure that every change gets
+# some form of review.
+* @Stephen001
+
+# Tooling owners
+#
+# These people should have enough technical know-how on the languages the tools
+# are written in to review changes to them. The core README.dm is included in
+# this group as the project structure is often key to tooling.
+/* @Stephen001
+
+# Font owners
+#
+# These people should have enough graphic design and rendering know-how around
+# fonts to help review font choices and font file quality.
+#
+# This position is currently open! Want to help? Please create an issue to
+# adopt this section.
+# /fonts/
+
+# Per-language owners
+#
+# These people should have good written and conversational language skills in
+# the language they are reviewing. A key skill here is ensuring a good trade
+# between accuracy to the original Japanese audio, and good conversational flow
+# in the subtitles themselves.
+
+# This position is currently open! Want to help? Please create an issue to
+# adopt this section.
+# /en/
